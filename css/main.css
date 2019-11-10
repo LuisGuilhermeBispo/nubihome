@@ -1,0 +1,24 @@
+.menu-item{
+    margin-top: 22px;
+    border-right: 1px solid #000000;
+    height: 20px;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-itemL{
+    margin-top: 22px;
+    border: none;
+    height: 20px;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
