@@ -38,6 +38,9 @@
 
 .mainParallax{
     width: 100%;
-    background-color: blue;
-    height: 500px;
+    height: 600px;
+    background-position: center -153.07px;
+    background-image: url(https://nubihome.com/wp-content/uploads/2019/04/parallax-top-header.jpg);
+    position: fixed;
+}
 }
